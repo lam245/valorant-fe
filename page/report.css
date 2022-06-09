@@ -1,0 +1,22 @@
+
+table{
+    border-spacing: 1em .5em;
+    padding: 0 1em 1em 0;
+    border: 1px solid black;
+}
+td{
+    width: 1.5em;
+  height: 1.5em;
+  background: white;
+  text-align: center;
+  border: 1px black solid;
+  vertical-align: middle;}
+th{
+    border: 1px black solid;
+    width: 30.5em;
+    height: 1.5em;
+   
+}
+tr{
+    border: 5px solid black;
+}
